@@ -87,3 +87,4 @@ tests/tests_database
 tests/*.log
 tests/*.trs
 documentation/*
+build/
